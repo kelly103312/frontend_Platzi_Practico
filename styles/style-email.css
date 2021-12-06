@@ -1,0 +1,33 @@
+.email-img {
+    width: 132px;
+    height: 132px;
+    border-radius: 50%;
+    background-color: var(--text-input-field);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 24px;
+}
+
+.email-img img {
+    width: 70px;
+}
+
+.password-recover {
+    font-size: var(--sm);
+}
+
+.password-recover p {
+    color: var(--very-light-pink);
+    margin: 0%;
+}
+
+.resend {
+    color: var(--hospital-green);
+    font-weight: bold;
+    text-decoration: none;
+}
+
+.form-container {
+    justify-items: center;
+}
