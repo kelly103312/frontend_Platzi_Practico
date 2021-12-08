@@ -8,6 +8,12 @@
     flex-direction: column;
 }
 
+.value {
+    color: var(--very-light-pink);
+    font-size: var(--med);
+    margin: 8px;
+}
+
 @media(max-width: 640px) {
     .form-container {
         height: 100%;

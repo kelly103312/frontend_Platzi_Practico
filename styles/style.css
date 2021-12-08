@@ -112,9 +112,9 @@ body {
     .logo {
         display: block;
     }
-    .secondary-btn {
+    /*.secondary-btn {
         position: absolute;
         bottom: 20px;
         width: inherit;
-    }
+    }*/
 }
